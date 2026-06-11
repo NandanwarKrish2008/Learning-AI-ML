@@ -18,7 +18,7 @@
 
 # INDEXING --> NEGATIVE
 
-name = "krish"
+name = "KRISH"
 
 # print(name)
 # print(name[-1])
