@@ -28,3 +28,12 @@
 
 # SLICING
 
+# name = "krish"
+
+# print(name[2:5]) # var[start:stop:step] Stop is excluded
+# print(name[::])
+
+# clg = "college"
+
+# print(clg[::2]) 
+# If stop or step is blank it will run upto end of string and if start is empty then it will start from starting
