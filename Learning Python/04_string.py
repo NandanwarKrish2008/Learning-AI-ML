@@ -18,9 +18,13 @@
 
 # INDEXING --> NEGATIVE
 
-name = "KRISH"
+# name = "KRISH"
 
-# print(name)
-# print(name[-1])
+# # print(name)
+# # print(name[-1])
 
-print(name[4], name[-1])
+# print(name[4], name[-1])
+
+
+# SLICING
+
