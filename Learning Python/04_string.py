@@ -37,3 +37,4 @@
 
 # print(clg[::2]) 
 # If stop or step is blank it will run upto end of string and if start is empty then it will start from starting
+
